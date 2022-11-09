@@ -16,5 +16,5 @@
 <p>In conclusion, the Logistic Regression model performed better, making my prediction correct. Given that we are predicting a discrete set of classes (True = 1/False = 0) with the loan_status variable, the classification algorithm of Logistic Regression performs better</p>
 
 ## Submission Requirements:
-* <a href="'Credit Risk Evaluator'.ipynb">Jupyter notebook
+* <a href="'Credit Risk Evaluator.ipynb'">Jupyter notebook
 * Prediction and analysis
